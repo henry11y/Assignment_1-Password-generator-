@@ -36,7 +36,7 @@ Python password generator using only built-in Python modules
   - File must be in the same directory as the Python script  
 
 - **Modules used**
-  - `os`
-  - `random`
-  - `string`
-  - `datetime`
+  - os
+  - random
+  - string
+  - datetime
